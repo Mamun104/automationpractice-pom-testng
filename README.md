@@ -1,4 +1,4 @@
-# selenium-web-automation-gradle
+# selenium-web-automation-TestNG
 
 
 # Technology:
